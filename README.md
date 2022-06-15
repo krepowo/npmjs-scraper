@@ -2,7 +2,7 @@
 
 ### Installing
 ```bash
-npm i npmjs-scraper
+npm i krepowo/npmjs-scraper
 ```
 
 ### Methods
