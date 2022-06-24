@@ -8,11 +8,6 @@
     "cheerio": "^1.0.0-rc.11",
     "node-superfetch": "^0.2.3"
   },
-  "keywords": [
-    "npmjs",
-    "scraper",
-    "package",
-  ],
   "author": "krepowo",
   "license": "ISC"
 }
